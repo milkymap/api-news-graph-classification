@@ -1,0 +1,5 @@
+dump/*.pkl
+dum/*.dgl
+env/
+__pycache__/
+.data/
